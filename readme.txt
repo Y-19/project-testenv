@@ -1,2 +1,1 @@
-diviragi
-git status
+devops environment
